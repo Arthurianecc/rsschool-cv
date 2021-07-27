@@ -1,0 +1,50 @@
+.header {
+  width: 1000px;
+  margin: 5px auto;
+  padding: 5px;
+  border: solid 2px;
+  background-color: beige;
+}
+
+.github {
+  animation: color 2s infinite;
+}
+@keyframes color {
+  0% {
+    color: red;
+  }
+  15% {
+    color: orange;
+  }
+  30% {
+    color: yellow;
+  }
+  45% {
+    color: green;
+  }
+  70% {
+    color: aqua;
+  }
+  85% {
+    color: blue;
+  }
+  100% {
+    color: #8f00ff;
+  }
+}
+.main {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 5px;
+  border: solid 2px;
+}
+.avatar {
+  position: absolute;
+  top: 130px;
+  right: 200px;
+  height: 200px;
+}
+.footer {
+  width: 1000px;
+  margin: 0 auto;
+}
