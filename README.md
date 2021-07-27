@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Arthurianecc.github.io/rsschool-cv/cv
